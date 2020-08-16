@@ -1,4 +1,5 @@
-venv/
+unixenv/
+winenv/
 
 *.pyc
 __pycache__/
